@@ -1,0 +1,23 @@
+{
+  "name": "basictesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexallen88/basicTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexallen88/basicTesting/issues"
+  },
+  "homepage": "https://github.com/alexallen88/basicTesting#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
